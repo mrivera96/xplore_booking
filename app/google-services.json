@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "690989819163",
+    "firebase_url": "https://xplore-booking.firebaseio.com",
+    "project_id": "xplore-booking",
+    "storage_bucket": "xplore-booking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:690989819163:android:c621281dacad42f4451fbe",
+        "android_client_info": {
+          "package_name": "com.xplorerentacar.xplorereservas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "690989819163-12dodkjvbgbknb1f20hq159haunmrev5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwxzsOSJgNR_ronl3zZ_jUC_noBvUvRmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "690989819163-12dodkjvbgbknb1f20hq159haunmrev5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

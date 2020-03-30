@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Xplore Bookings</string>
+    <string name="welcome">¡Welcome!</string>
+    <string name="cargando">Loading...</string>
+    <string name="sin_internet">¡No Internet!</string>
+    <string name="btn_reintentar">Retry</string>
+    <string name="content_error">An error has ocurred loading the content.</string>
+    <string name="sin_internet_desc">There is not an active internet connection.</string>
+</resources>

@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Xplore Booking</string>
+    <string name="cargando">Cargando...</string>
+    <string name="sin_internet">¡Sin Internet!</string>
+    <string name="sin_internet_desc">No hay una conexión activa a internet.</string>
+    <string name="title_activity_splash" translatable="false">SplashActivity</string>
+    <string name="welcome">¡Bienvenido!</string>
+    <string name="btn_reintentar">Reintentar</string>
+    <string name="content_error">Ha ocurrido un error al cargar el contenido.</string>
+</resources>
