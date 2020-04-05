@@ -16,7 +16,7 @@
         <ImageView
             android:id="@+id/imgLogo"
             android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
+            android:layout_height="200dp"
             android:layout_centerInParent="true"
             android:src="@drawable/logo_xplore"
             />
@@ -26,6 +26,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="@string/cargando"
+            android:textColor="@color/primaryText"
             android:layout_centerHorizontal="true"/>
 
     </RelativeLayout>
@@ -83,6 +84,7 @@
             android:layout_height="wrap_content"
             android:text="@string/btn_reintentar"
             android:textSize="24sp"
+            android:textColor="@color/primaryText"
             android:padding="5dp"
             android:onClick="retry"
             android:background="@drawable/transparent_bg_bordered_button"
